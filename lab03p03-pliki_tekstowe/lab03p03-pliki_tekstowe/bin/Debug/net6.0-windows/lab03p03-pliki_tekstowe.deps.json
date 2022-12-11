@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab03p03-pliki_tekstowe/1.0.0": {
+        "runtime": {
+          "lab03p03-pliki_tekstowe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab03p03-pliki_tekstowe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
